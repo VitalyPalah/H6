@@ -1,0 +1,58 @@
+.main_content{
+    background-color: #ffffff;
+    width: 1550px;
+}
+
+.first_collom{
+    display: inline-block;
+    width: 225px;
+    padding-left: 345px;
+    margin-top: 55px;
+    text-align: center;
+}
+
+.second_collom{
+    display: inline-block;
+    width: 225px;
+    margin-top: 55px;
+    padding-left: 100px;
+    text-align: center;
+}
+
+.third_collom{
+    display: inline-block;
+    width: 225px;
+    margin-top: 55px;
+    padding-left: 100px;
+    text-align: center;
+}
+
+.responsive_design img:hover{
+    background-color: #ffffff;
+    border-radius: 70%;
+}
+
+.costomize_design img:hover{
+    background-color: #ffffff;
+    border-radius: 70%;
+}
+
+.reliable_design img:hover{
+    background-color: #ffffff;
+    border-radius: 70%;
+}
+
+.first_img{
+    background-color: #2a69a6;
+    border-radius: 70%;
+}
+
+.second_img{
+    background-color: #2a69a6;
+    border-radius: 70%;
+}
+
+.third_img{
+    background-color: #2a69a6;
+    border-radius: 70%;
+}
